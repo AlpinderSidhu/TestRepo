@@ -1,1 +1,2 @@
 This is B1C2 file
+Sample insert for merge check
